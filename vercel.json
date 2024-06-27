@@ -19,8 +19,5 @@
       "src": "/(.*)",
       "dest": "QTrip/wsgi.py"
     }
-  ],
-  "static": {
-    "directory": "staticfiles_build/static"
-  }
+  ]
 }
